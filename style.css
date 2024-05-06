@@ -1,0 +1,40 @@
+*{margin: 0%;
+  font-size: 32px;
+  font-weight: 500;
+}
+section{
+    text-align: center;
+    width:100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.verticle{
+    height: 100px;
+    width:400px;
+    border: 20px solid black;
+    box-sizing: border-box;
+}
+#abc{
+    margin-top: 30px;
+    border: 20px solid black;
+    background-color: grey;
+    color: white;
+    text-align: left;
+
+}
+.hori{
+    width:90px;
+    height:80px;
+    border: 5px solid black;
+    float:left;
+    background-color: rgb(39, 38, 38);
+    color: white;
+}
+button{
+    background-color: rgb(39, 38, 38);
+    border: none;
+    color: white;
+}
